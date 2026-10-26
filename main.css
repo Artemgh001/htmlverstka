@@ -1,0 +1,20 @@
+main > p.still {
+  color: rgb(7, 6, 3);
+  font-size: 20px;
+  font-style: italic;
+}
+
+main h1 {
+  font-weight: 300;
+  font-size: 30px;
+}
+
+main ul.skills {
+  font-style: italic;
+  font-size: 20px;
+}
+
+main h2 {
+  font-weight: 300;
+  font-size: 30px;
+}
